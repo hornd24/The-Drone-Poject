@@ -1,0 +1,16 @@
+body{
+    background: url("http://www.drone-air.com/images/Drone-Air-Barcombe-Mills-2-1080p-HD-Wallpaper.jpg") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+#h1{
+    color: whitesmoke;
+}
+#drone{
+    color: whitesmoke;
+}
+p{
+    color:whitesmoke;
+}
