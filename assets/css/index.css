@@ -1,5 +1,5 @@
 body{
-    background: url("http://www.drone-air.com/images/Drone-Air-Barcombe-Mills-2-1080p-HD-Wallpaper.jpg") no-repeat center center fixed;
+    background: url("https://repeatingislands.files.wordpress.com/2015/12/hilton-caribbean-generic-1680x650-54.jpg") no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -16,4 +16,20 @@ p{
 }
 #img{
     width: 200;
+}
+#nav{
+    background-color: black;
+    
+    opacity: .5;
+}
+#nav :hover{
+    block-size: 50px;
+}
+#dropdown{
+    background-color: blue;
+}
+#but1{
+    background-color: blue;
+}
+.dropdown-menu{ opacity: .7;
 }
