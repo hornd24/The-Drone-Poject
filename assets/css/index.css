@@ -1,9 +1,18 @@
-body{
-    background: url("https://repeatingislands.files.wordpress.com/2015/12/hilton-caribbean-generic-1680x650-54.jpg") no-repeat center center fixed;
+#page1{
+    background: url("https://www.fourseasons.com/content/dam/fourseasons/images/web/BOR/BOR_100_1280x486.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg") no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
+    
+}
+#page2{
+    background: url('http://www.suttonsilver.co.uk/wp-content/uploads/blog-stock-02.jpg')no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    
 }
 #h1{
     color: whitesmoke;
@@ -17,19 +26,17 @@ p{
 #img{
     width: 200;
 }
-#nav{
+
+#navbar{
     background-color: black;
-    
-    opacity: .5;
+    opacity: 4;
 }
-#nav :hover{
-    block-size: 50px;
+#navbar:hover{
+    font-weight: bolder;
+    opacity: 100;
 }
-#dropdown{
-    background-color: blue;
-}
-#but1{
-    background-color: blue;
-}
-.dropdown-menu{ opacity: .7;
+
+#slideShow{
+    width: 100px;
+    height: 200px;
 }
